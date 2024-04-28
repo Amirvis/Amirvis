@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Amirvis
-- 👀 I’m interested in Python
+- 👀 I’m a Python & backend programmer
