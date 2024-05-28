@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Amirvis
-- 👀 I’m a Python & backend programmer
+- 👀 I’m a front programmer
