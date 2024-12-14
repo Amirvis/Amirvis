@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./robot.png" alt="Logo" width="100px" />
   <h1>👋Hi there, I'm Amirreza but you can call me Vis..</h1>
   <samll>👀I’m a Front-End Programmer</samll>
   <h2>I know:</h2>
