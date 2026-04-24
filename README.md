@@ -12,7 +12,7 @@
 
 🎈 UI / UX Design
 
-[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 🚀 DevOps
 
