@@ -10,7 +10,7 @@
 [![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-Framework-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 
-🧩 UI / UX Design
+🎈 UI / UX Design
 
 [![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
